@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🎓 Gestión de incidencias universitarias. Desarrollada con Python y Kivy.
+  Gestión de incidencias universitarias. Desarrollada con Python y Kivy.
 </p>
 
 <p align="center">
@@ -17,14 +17,14 @@
   </a>
 </p>
 
-## 📑 Tabla de Contenidos
+## Tabla de Contenidos
 
-- [🎯 Introducción](#introducción)
-- [✨ Características](#características)
-- [🛠️ Desarrollo](#desarrollo)
-- [📸 Capturas](#capturas)
+- [Introducción](#introducción)
+- [Características](#características)
+- [Desarrollo](#desarrollo)
+- [Capturas](#capturas)
 
-## 🎯 Introducción
+## Introducción
 
 [![Python](https://img.shields.io/badge/🐍_Python-3.10+-blue.svg?style=flat-square)](https://python.org)
 [![Kivy](https://img.shields.io/badge/🖼️_Kivy-2.3.1-green.svg?style=flat-square)](https://kivy.org)
@@ -33,39 +33,39 @@
 
 Aplicación móvil diseñada específicamente para el personal de seguridad y guardias universitarios. Permite gestionar reportes de incidencias en tiempo real de manera eficiente y organizada.
 
-**🛠️ Desarrollada con Python y Kivy - 📱 Compatible con Android**
+** Desarrollada con Python y Kivy - 📱 Compatible con Android**
 
-## ✨ Características
+## Características
 
-🎯 Funcionalidades principales que ofrece Guardia Report App:
+ Funcionalidades principales que ofrece Guardia Report App:
 
-* 🔐 **Autenticación segura** para personal autorizado
-* 📝 **Creación rápida** de reportes de incidencias
-* 📊 **Visualización organizada** de todos los reportes
-* 🔍 **Búsqueda inteligente** por palabras clave
-* 📱 **Interfaz móvil optimizada** para guardias
-* 💾 **Almacenamiento local** de incidencias
-* 🎨 **Diseño intuitivo** y fácil de usar
+* **Autenticación segura** para personal autorizado
+* **Creación rápida** de reportes de incidencias
+* **Visualización organizada** de todos los reportes
+* **Búsqueda inteligente** por palabras clave
+* **Interfaz móvil optimizada** para guardias
+* **Almacenamiento local** de incidencias
+* **Diseño intuitivo** y fácil de usar
 
-### 📋 Prerrequisitos
-- 🐍 Python 3.10 o superior
-- 📦 pip (gestor de paquetes Python)
+### Prerrequisitos
+- Python 3.10 o superior
+- pip (gestor de paquetes Python)
 
 
 
-### 🎨 Pantallas Implementadas
-1. **🔐 PantallaLogin** - Autenticación de guardias
-2. **🏠 PantallaMenu** - Navegación principal
-3. **📝 PantallaNuevoReporte** - Formulario de incidencias
-4. **📊 PantallaReportes** - Lista de reportes
-5. **🔍 PantallaBuscar** - Búsqueda en historial
+### Pantallas Implementadas
+1. **PantallaLogin** - Autenticación de guardias
+2. **PantallaMenu** - Navegación principal
+3. **PantallaNuevoReporte** - Formulario de incidencias
+4. **PantallaReportes** - Lista de reportes
+5. **PantallaBuscar** - Búsqueda en historial
 
-### ⚙️ Tecnologías Utilizadas
-- **🐍 Python 3.10+** - Lenguaje de programación
-- **🖼️ Kivy 2.3.1** - Framework para interfaces móviles
-- **🤖 Buildozer** - Herramienta de compilación para Android
+### Tecnologías Utilizadas
+- **Python 3.10+** - Lenguaje de programación
+- **Kivy 2.3.1** - Framework para interfaces móviles
+- **Buildozer** - Herramienta de compilación para Android
 
-## 📸 Capturas
+## Capturas
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AxelReyes23/guardia-report-app/main/screenshots/new-report-screen.png" width="250">
